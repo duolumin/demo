@@ -12,6 +12,7 @@ public class DemoApplication {
         System.out.println("第3次提交");
         System.out.println("第4次提交");
         System.out.println("第5次提交");
+        System.out.println("第6次提交");
 
         SpringApplication.run(DemoApplication.class, args);
 
